@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false" >
+
+    <item android:drawable="@drawable/dust1" android:duration="210" />
+    <item android:drawable="@drawable/result_dust_crying1" android:duration="210" />
+    <item android:drawable="@drawable/result_dust_crying2" android:duration="210" />
+    <item android:drawable="@drawable/result_dust_crying3" android:duration="210" />
+    <item android:drawable="@drawable/result_dust_crying4" android:duration="210" />
+    <item android:drawable="@drawable/result_dust_crying5" android:duration="210" />
+
+</animation-list>
